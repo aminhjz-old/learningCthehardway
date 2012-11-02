@@ -1,1 +1,1 @@
-my learn to code the hard wat exercises for learning C :)
+my learn to code the hard way exercises for learning C :)
